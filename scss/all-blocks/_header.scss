@@ -1,0 +1,16 @@
+.header {
+      display: flex;  
+}
+
+.header {
+   
+  &-button {
+    width: 300px;
+  }
+}
+
+.header2 {
+  background: #014E56;
+  color: aliceblue;
+  padding: 50px 90px;
+}
